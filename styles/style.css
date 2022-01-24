@@ -1,10 +1,64 @@
-/*
-Colors to use:
-dark blue: #06365f
-light blue: #1c5380
-*/
-
 body {
-  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 0;
+}
+.blue {
+  background-color: #4682b4;
+
+  height: 10rem;
+}
+.images-insta-login {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.insta-img {
+  height: 4rem;
+  width: 15rem;
+  margin-top: 3rem;
+}
+.instagram-part {
+}
+.home-img {
+  height: 2rem;
+  width: 2rem;
+}
+
+.phones-img {
+  margin-top: 1rem;
+  margin-right: 10rem;
+  margin-left: 1rem;
+}
+h1 {
+  font-size: 2rem;
+}
+p {
+  font-size: 1rem;
+}
+.white-img {
+  display: flex;
+  max-width: 100px;
+}
+.main {
+}
+
+.appstore-img {
+  margin-left: 0.5rem;
+  margin-right: 1rem;
+}
+
+.footer {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  margin: 0 1rem;
+  word-spacing: 1rem;
+  color: #4682b4;
+  display: flex;
+  justify-content: center;
+}
+.grey {
+  color: grey;
+  word-spacing: 0.1rem;
+  margin-left: 1rem;
+}
+.text-and-logos {
 }
